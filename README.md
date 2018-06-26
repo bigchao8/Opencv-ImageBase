@@ -4,4 +4,5 @@ Debugging parameters:
 --resizeout to scale down the image.
 
 --debug program debug mode.
-'/n'Debug and output parameters are optional
+
+Debug and output parameters are optional
