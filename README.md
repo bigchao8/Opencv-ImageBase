@@ -6,3 +6,5 @@ Debugging parameters:
 --debug program debug mode.
 
 Debug and output parameters are optional
+
+You need to install opencv and spdlog
