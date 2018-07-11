@@ -8,3 +8,19 @@ Debugging parameters:
 Debug and output parameters are optional
 
 You need to install opencv and spdlog
+
+command:./imagebase testimg.jpg
+
+Test Image 1:
+![image](https://github.com/bigchao8/Opencv-ImageBase/blob/master/testimg/InkedIMG_2251_LI.jpg)
+
+result：
+![image](https://github.com/bigchao8/Opencv-ImageBase/blob/master/testimg/2.jpg)
+
+Test Image 2:
+![image](https://github.com/bigchao8/Opencv-ImageBase/blob/master/testimg/InkedInkedIMG_2249_LI.jpg)
+
+result:
+![image](https://github.com/bigchao8/Opencv-ImageBase/blob/master/testimg/1.jpg)
+
+
