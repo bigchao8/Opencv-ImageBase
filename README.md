@@ -7,7 +7,7 @@ Debugging parameters:
 
 Debug and output parameters are optional
 
-You need to install opencv and spdlog
+You need to install opencv2.4or3.4 and spdlog
 
 command:./imagebase testimg.jpg
 
